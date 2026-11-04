@@ -316,7 +316,7 @@ def login_screen():
                     st.rerun()
                 else:
                     st.error("Invalid username or password.")
-            st.caption("Demo accounts: admin / Admin123!  ·  staff / Staff123!")
+            #st.caption("Demo accounts: admin / Admin123!  ·  staff / Staff123!")
 
 
 def show_dashboard():
